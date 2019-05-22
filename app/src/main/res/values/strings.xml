@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Emas Clone</string>
+    <string name="logo">emasLogo</string>
+    <string name="lupaPin"><u>Lupa PIN?</u></string>
+</resources>
